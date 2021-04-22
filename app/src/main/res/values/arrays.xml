@@ -1,0 +1,51 @@
+<resources>
+    <!-- location Preference -->
+    <string-array name="location_entries">
+        <item>Current Location</item>
+        <item>Other Location</item>
+    </string-array>
+
+    <string-array name="location_values">
+        <item>current</item>
+        <item>other</item>
+    </string-array>
+
+    <!-- unit Preference -->
+    <string-array name="unit_entries">
+        <item>kelvin - meter/sec</item>
+        <item>fahrenheit - miles/hour</item>
+        <item>celsius - meter/sec</item>
+    </string-array>
+
+    <string-array name="unit_values">
+        <item>standard</item>
+        <item>imperial</item>
+        <item>metric</item>
+    </string-array>
+
+    <!-- language Preference -->
+    <string-array name="language_entries">
+        <item>English</item>
+        <item>Arabic</item>
+    </string-array>
+
+    <string-array name="language_values">
+        <item>en</item>
+        <item>ar</item>
+    </string-array>
+
+
+    <!-- alert event -->
+    <string-array name="alertEvent">
+        <item>Temp</item>
+        <item>Wind</item>
+        <item>Clouds</item>
+        <item>Gale-force gusts</item>
+    </string-array>
+
+    <!-- alert type -->
+    <string-array name="alertType">
+        <item>Default Sound</item>
+        <item>Notification</item>
+    </string-array>
+</resources>

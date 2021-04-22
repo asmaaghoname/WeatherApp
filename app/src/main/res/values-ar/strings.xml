@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الطقس</string>
+    <string name="channel_description">الرئيسية</string>
+    <string name="channel_name">توقعات الطقس</string>
+    <string name="addBtn">إضافة</string>
+    <string name="alertTimeLbl">الوقت</string>
+    <string name="alertType">النوع</string>
+    <string name="alertEventHint">الحدث</string>
+    <string name="friday">الجمعة</string>
+    <string name="thursday">الخميس</string>
+    <string name="wednesday">الإربعاء</string>
+    <string name="tuesday">الثلاثاء</string>
+    <string name="monday">الإثنين</string>
+    <string name="saturday">السبت</string>
+    <string name="sunday">الاحد</string>
+    <string name="title_activity_favorite_map">الخريطه</string>
+    <string name="yesBtn">نعم</string>
+    <string name="noBtn">لا</string>
+    <string name="language_title">اللغة الافتراضية</string>
+    <string name="units_title">الوحدة الإفتراضية</string>
+    <string name="location_title">الموقع الإفتراضي</string>
+    <string name="language_header">اللغة</string>
+    <string name="units_header">الوحدة</string>
+    <string name="location_header">الموقع</string>
+    <string name="title_activity_settings">الإعدادات</string>
+    <string name="WeatherForecast">الطقس</string>
+    <string name="Home">الرئيسية</string>
+    <string name="Setting">الإعدادت</string>
+
+    <string name="Alert">التنبية</string>
+    <string name="Humidity">الرطوبة</string>
+    <string name="Precipitation">التساقط</string>
+    <string name="Pressure">الضغط</string>
+    <string name="WindSpeed">سرعة الرياح</string>
+    <string name="CloudCover">الغطاء السحابي</string>
+    <string name="Visibility">الرؤية</string>
+    <string name="max">العظمي: </string>
+    <string name="weather">الطقس</string>
+    <string name="forecast">توقعات</string>
+    <string name="fahrenheit">فهرن</string>
+    <string name="celsius">مئويه</string>
+    <string name="kelvin">كلفن</string>
+    <string name="alarm">التنبية</string>
+    <string name="hourlyForecast">الطقس بالساعات</string>
+    <string name="dailyforecast">الطقس للأيام</string>
+    <string name="mh">م / س</string>
+    <string name="ms">م / ث</string>
+    <string name="min">الصغري: </string>
+    <string name="wind">الرياح: </string>
+    <string name="clouds">السحب: </string>
+    <string name="Favorite">المفضلة</string>
+
+
+</resources>

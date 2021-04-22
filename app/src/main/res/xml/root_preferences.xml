@@ -1,0 +1,47 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+ <PreferenceCategory app:title="@string/location_header">
+
+        <ListPreference
+            android:defaultValue="current"
+            android:entries="@array/location_entries"
+            android:entryValues="@array/location_values"
+            android:key="location"
+            android:title="@string/location_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            android:key="location_address"
+            android:selectable="false"
+            app:isPreferenceVisible="false"
+            app:useSimpleSummaryProvider="true"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/units_header">
+
+        <ListPreference
+            android:defaultValue="metric"
+            android:entries="@array/unit_entries"
+            android:entryValues="@array/unit_values"
+            android:key="unit"
+            android:title="@string/units_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/language_header">
+
+        <ListPreference
+            android:defaultValue="en"
+            android:entries="@array/language_entries"
+            android:entryValues="@array/language_values"
+            android:key="language"
+            android:title="@string/language_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

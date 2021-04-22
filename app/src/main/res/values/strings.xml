@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="location_header">Location</string>
+    <string name="units_header">Unit</string>
+    <string name="language_header">Language</string>
+
+    <!-- Location Preferences -->
+    <string name="location_title">Default location</string>
+
+    <!-- Unit Preferences -->
+    <string name="units_title">Default unit</string>
+    <string name="fahrenheit">°F</string>
+    <string name="celsius">°C</string>
+    <string name="kelvin">°K</string>
+
+    <!-- Speed Preferences -->
+    <string name="mh">mile/h</string>
+    <string name="ms">m/s</string>
+
+    <!-- Unit Preferences -->
+    <string name="language_title">Default language</string>
+    <string name="noBtn">Cancel</string>
+    <string name="yesBtn">OK</string>
+    <string name="title_activity_favorite_map">Map</string>
+    <string name="sunday">Sunday</string>
+    <string name="saturday">Saturday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="alertEventHint">Event</string>
+    <string name="alertType">Type</string>
+    <string name="alertTimeLbl">Time</string>
+    <string name="addBtn">Add Alert</string>
+
+    <string name="channel_name">Weather Forecast</string>
+    <string name="channel_description">Home</string>
+    <string name="WeatherForecast">Weather Forecast</string>
+    <string name="Home">Home</string>
+    <string name="Setting">Settings</string>
+    <string name="Favorite">Favorite</string>
+    <string name="Alert">Alert</string>
+    <string name="Humidity">Humidity</string>
+    <string name="Precipitation">Precipitation</string>
+    <string name="Pressure">Pressure</string>
+    <string name="WindSpeed">Wind Speed</string>
+    <string name="CloudCover">Cloud Cover</string>
+    <string name="Visibility">Visibility</string>
+    <string name="max">max: </string>
+    <string name="min">min: </string>
+    <string name="wind">wind: </string>
+    <string name="clouds">clouds: </string>
+    <string name="forecast">Forecast</string>
+    <string name="weather">Weather</string>
+    <string name="alarm">Alarm</string>
+    <string name="hourlyForecast">Hourly Forecast</string>
+    <string name="dailyforecast">Daily Forecast</string>
+
+
+</resources>
+
